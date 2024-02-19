@@ -1,5 +1,5 @@
 # Rikesh Chandra
-*Database Engineer | DevOps | Automation*
+*Database Engineer | :rocket: DevOps | Automation*
 
 ---
 
@@ -29,7 +29,7 @@ Designed and implemented a CI/CD pipeline for automating database deployments us
 
 ## Contact Me
 - LinkedIn: [linkedin.com/in/rikeshchandra](https://www.linkedin.com/in/rikeshchandra)
-- GitHub: [rikesh-chandra.github.io](https://rikesh-chandra.github.io)
+- GitHub: [github.com/rikesh-chandra](https://github.com/rikesh-chandra)
 
 ---
 
